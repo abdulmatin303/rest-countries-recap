@@ -4,11 +4,11 @@
     grid-gap: 20px;
 }
 .country{
-    border: 3px solid goldenrod;
+    border: 3px solid gold;
     background-color: aquamarine;
     border-radius: 20px;
     padding: 20px;
 }
 .country img {
-    width: 200px;
+    width: 250px;
 }
